@@ -34,19 +34,7 @@ public class ScalarVector {
                 return false;
             }
         }
-        //int c=0;
-        //for (int i=0;i<a.length;i++){
-            //if (a[i]==b[i]){
-            //    c++;//c=c+1
-          //  }
-        //}
-        //if (c==a.length){
-         //   return true;
-        //}
-        //else{
-          //  return false;
-        //}
-        
+
         return true;
     }
     
